@@ -1,0 +1,19 @@
+body{
+   background-color: lightblue;
+   color: blue;
+   font-size: 1.1em;
+}
+.fontClass{
+	font-family: 'Comic Neue', cursive;
+}
+.fontClassTwo{
+	font-family: 'Lucida Handwriting', cursive;
+}
+.fontClassThree{
+	font-family: 'Papyrus', fantasy;
+}
+.fontClassFour{
+	font-family: 'Garamond', serif;
+}
+
+/* Patrick Hinckle */
